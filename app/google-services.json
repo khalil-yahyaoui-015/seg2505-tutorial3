@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275070974568",
+    "project_id": "seg2505-tutorat3",
+    "storage_bucket": "seg2505-tutorat3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275070974568:android:95bf2c06c187c5d19299dd",
+        "android_client_info": {
+          "package_name": "com.example.seg2505_tutorat3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAyreUyGIY5Va6WmvPoEh333OcP3TrqO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
